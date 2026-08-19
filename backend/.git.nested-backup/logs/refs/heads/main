@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 65caec11709821fab985e56d8a1578e7db9dfdfc Jayaram-max <jayaramhr80@gmail.com> 1786794980 +0530	commit (initial): Initial backend setup
+65caec11709821fab985e56d8a1578e7db9dfdfc 232f89d3f8b00486ef88005cdb41b5241c073e4a Jayaram-max <jayaramhr80@gmail.com> 1786795173 +0530	commit: Add client origin CORS config
+232f89d3f8b00486ef88005cdb41b5241c073e4a 1dc5c9ff3f23d6ed0c3c3572de28a2bd086e92ba Jayaram-max <jayaramhr80@gmail.com> 1786847307 +0530	commit: Fix 404 error: remove duplicate /weather path in routes
+1dc5c9ff3f23d6ed0c3c3572de28a2bd086e92ba df2fbc74f23cd6e1a5e6ea165868853f8c179d87 Jayaram-max <jayaramhr80@gmail.com> 1786848057 +0530	commit: Fix route mounting: change /api to /api/weather
